@@ -47,7 +47,7 @@ Open the notebook in [Google Colab](https://colab.research.google.com/) and run 
 
 ## 📁 Files
 
-- `MyIPL-Analysis.ipynb` – Main analysis notebook
+- `IPL_2023.ipynb` – Main analysis notebook
 - `IPL_2023.csv` – Dataset used
 - `README.md` – Project overview
 
