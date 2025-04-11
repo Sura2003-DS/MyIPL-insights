@@ -48,6 +48,6 @@ Visualizations include:
 ## 🚀 How to Run
 
 1. Clone the repository:
-   🔗 **Project Repository**: [MyIPL-Insights on GitHub](https://github.com/Sura2003-DS/MyIPL-Insights)
+   🔗 **Project Repository**: [MyIPL-Insights on GitHub](https://github.com/Sura2003-DS/My-IPL-insights.git)
 
    
