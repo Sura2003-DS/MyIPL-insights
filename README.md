@@ -54,6 +54,7 @@ Open the notebook in [Google Colab](https://colab.research.google.com/) and run 
 ---
 
 ## 🔗 GitHub Repo
+    https://github.com/Sura2003-DS/MyIPL-insights.git
     
 
 
