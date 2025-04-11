@@ -1,53 +1,60 @@
 # 🏏 MyIPL-Insights
 
-This project dives deep into Indian Premier League (IPL) match data using Python.  
-It explores trends, team performance, player stats, and match outcomes based on the **IPL 2023 dataset** using various data visualization techniques.
+This project analyzes ball-by-ball data from the IPL 2023 season to uncover insights and trends using data science techniques.
 
 ---
 
-## 📁 Dataset Information
+## 📊 Dataset
 
-- 📅 **Dataset Year**: IPL 2023
-- 🔢 **Columns Included**:
-  - `match_id`, `season`, `match_no`, `date`, `venue`
-  - `batting_team`, `bowling_team`, `innings`, `over`
-  - `striker`, `bowler`, `runs_of_bat`, `extras`
-  - `wide`, `legbyes`, `byes`, `noballs`
-  - `wicket_type`, `player_dismissed`, `fielder`
+- **Source**: [Kaggle](https://www.kaggle.com/)
+- **File**: `IPL_2023.csv`
+- Ball-by-ball match data from the 2023 IPL season.
 
 ---
 
-## 🔍 Key Insights
+## 📚 Libraries Used
 
-Some of the interesting aspects covered in this analysis include:
-
-- Batting and bowling performance trends across IPL 2023
-- Venue-wise team advantages
-- Match outcome trends based on toss decisions
-- Dismissal types and frequency
-- Run distributions and scoring patterns
-
-Visualizations include:
-- 📈 Line plots
-- 📊 Bar charts
-- 📉 Histograms
-- ⚪ Scatter plots
-- 📌 2D Graphs
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+- `scikit-learn`
 
 ---
 
-## 🛠️ Tools & Libraries Used
+## 📈 Visualizations
 
-- `pandas` for data manipulation
-- `numpy` for numerical analysis
-- `matplotlib` & `seaborn` for visualization
-- `scikit-learn` (for any predictive/statistical analysis)
+- 2D graphs
+- Histograms
+- Line plots
+- Scatter plots
 
 ---
 
-## 🚀 How to Run
+## 📌 Key Insights
 
-1. Clone the repository:
-   🔗 **Project Repository**: [MyIPL-Insights on GitHub](https://github.com/Sura2003-DS/My-IPL-insights.git)
+- Most impactful players
+- Team performance across seasons
+- Run trends and bowler effectiveness
+
+---
+
+## 🚀 Run It Yourself
+
+Open the notebook in [Google Colab](https://colab.research.google.com/) and run the cells.
+
+---
+
+## 📁 Files
+
+- `MyIPL-Analysis.ipynb` – Main analysis notebook
+- `IPL_2023.csv` – Dataset used
+- `README.md` – Project overview
+
+---
+
+## 🔗 GitHub Repo
+    
+
 
    
